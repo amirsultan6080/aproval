@@ -1,1 +1,2 @@
 4-physical---8-logical-unameresult--7stare--system=-7stare-Windows-7stare----node=-7stare-WALTON-7stare----release=-7stare-10-7stare----version=-7stare-10.0.22621-7stare----machine=-7stare-AMD64-7stare-Windows-10-10.0.22621-SP0AMD64Intel64-Family-6-Model-142-Stepping-12---GenuineIntel
+6-physical-12-logical-unameresultsystem=Windows-node=DESKTOP-91GFTS0-release=10-version=10.0.19045-machine=AMD64Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-62-Stepping-4-GenuineIntel

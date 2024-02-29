@@ -8,4 +8,3 @@
 4-physical---8-logical-unameresult--7stare--system=-7stare-Windows-7stare----node=-7stare-DESKTOP-N6RE7JM-7stare----release=-7stare-10-7stare----version=-7stare-10.0.22000-7stare----machine=-7stare-AMD64-7stare-Windows-10-10.0.22000-SP0AMD64Intel64-Family-6-Model-58-Stepping-9---GenuineIntel
 8-physical---8-logical-unameresult--7stare--system=-7stare-Windows-7stare----node=-7stare-WIN-8OA3CCQAE4D-7stare----release=-7stare-10-7stare----version=-7stare-10.0.20348-7stare----machine=-7stare-AMD64-7stare-Windows-10-10.0.20348-SP0AMD64Intel64-Family-6-Model-62-Stepping-4---GenuineIntel
 2-physical---4-logical-unameresult--7stare--system=-7stare-Windows-7stare----node=-7stare-DESKTOP-S57931H-7stare----release=-7stare-10-7stare----version=-7stare-10.0.19045-7stare----machine=-7stare-AMD64-7stare-Windows-10-10.0.19045-SP0AMD64Intel64-Family-6-Model-61-Stepping-4---GenuineIntel
-
